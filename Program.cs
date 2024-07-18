@@ -24,6 +24,24 @@
         //    Console.WriteLine($"Answer: {num1 * num2}");       //4. num1과 num2의 곱 연산값을 출력
         //}
         #endregion
+
+        #region 문제3. 숫자 비교하기
+        //문제: 정수 num1과 num2가 매개변수로 주어집니다. 두 수가 같으면 1, 다르면 -1을 return하도록 solution 함수를 완성해주세요.
+
+        //public int solution(int num1, int num2)       //1. solution 함수에서 정수 num1과 num2 선언
+        //{
+        //    int answer;                               //2. 결과값을 받을 answer을 int로 변수 선언
+        //    if (num1 == num2)                         
+        //    {
+        //        answer = 1;                           //3. num1과 num2가 같을 때 answer(결과값)을 1로 설정
+        //    }
+        //    else
+        //    {
+        //        answer = -1;                          //4. 나머지 경우(num1과 num2가 같지 않을 때)에는 answer(결과값)을 -1로 설정
+        //    }
+        //    return answer;                            //5. 조건에 따른 결과값 도출
+        //}
+        #endregion
         static void Main(string[] args)
         {
  
